@@ -18,6 +18,6 @@ Ce dépôt est un index de ce qu'il reste de "l'ère publique" de ce serveur (20
 
 Si vous souhaitez voir à quoi ressemblait ce serveur, vous pouvez consulter [l'index des screenshots](https://eaglecraft.fr/viewtopic.php@f=15&t=594.html), regarder [cette vidéo d'avril 2020](https://eaglecraft.fr/viewtopic.php@f=14&t=606.html), ou tout simplement accéder à [la cartographie du serveur](https://cartes.eaglecraft.fr). Et si le sujet vous intéresse, vous pouvez aussi lire [l'histoire du serveur](https://eaglecraft.fr/viewtopic.php@f=46&t=339.html).
 
-Cela me fait penser que j'avais écrit sur mon blog [un chouette article dédié à EagleCraft](https://uneprincesse.fr/eaglecraft).
+Cela me fait penser que j'avais écrit sur mon blog [un chouette article](https://uneprincesse.fr/eaglecraft) dédié à EagleCraft. Plus récemment, j'y ai aussi écrit [un autre article](https://uneprincesse.fr/la-fin-et-la-suite-deaglecraft) revenant sur la décision de fermer EagleCraft au public, et sur sa modeste suite.
 
 J'essayerai de tenir à jour ce fichier.
