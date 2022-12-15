@@ -8,7 +8,7 @@ Ce dépôt est un index de ce qu'il reste de "l'ère publique" de ce serveur (20
 
 * La cartographie des mondes (Dynmap) est archivée dans le dépôt [`EagleCraft_Dynmap_Final`](https://github.com/Sailoriae/EagleCraft_Dynmap_Final) (Environ 4 Go). Elle est toujours consultable sur [cartes.eaglecraft.fr](https://cartes.eaglecraft.fr) (Encore merci Github Pages, même si j'abuse peut-être un peu là).
 
-* Les mondes seront disponibles au téléchargement, du moins les principaux, une fois que j'aurai vérifié qu'ils n'aient pas de chunks corrompus (Ce qui devrait être bon, le dernier test date de février 2022).
+* Les mondes seront disponibles au téléchargement, du moins les principaux, une fois qu'on en aura discuté avec Auldeor. Mais le sujet est compliqué à aborder.
 
 * Le serveur Discord d'EagleCraft est toujours disponible via [discord.eaglecraft.fr](http://discord.eaglecraft.fr). Une chouette partie de la communauté y est présente.
 
